@@ -1,0 +1,12 @@
+/Users/anastasia/Desktop/ICS4/Assignments/PASS1/PASS1/PASS1/bin/Debug/PASS1.exe
+/Users/anastasia/Desktop/ICS4/Assignments/PASS1/PASS1/PASS1/bin/Debug/PASS1.pdb
+/Users/anastasia/Desktop/ICS4/Assignments/PASS1/PASS1/PASS1/obj/Debug/PASS1.csproj.AssemblyReference.cache
+/Users/anastasia/Desktop/ICS4/Assignments/PASS1/PASS1/PASS1/obj/Debug/PASS1.csproj.CoreCompileInputs.cache
+/Users/anastasia/Desktop/ICS4/Assignments/PASS1/PASS1/PASS1/obj/Debug/PASS1.exe
+/Users/anastasia/Desktop/ICS4/Assignments/PASS1/PASS1/PASS1/obj/Debug/PASS1.pdb
+/Users/anastasia/Desktop/General/High School/computer science/Assignments/PASS1/PASS1/PASS1/bin/Debug/PASS1.exe
+/Users/anastasia/Desktop/General/High School/computer science/Assignments/PASS1/PASS1/PASS1/bin/Debug/PASS1.pdb
+/Users/anastasia/Desktop/General/High School/computer science/Assignments/PASS1/PASS1/PASS1/obj/Debug/PASS1.csproj.AssemblyReference.cache
+/Users/anastasia/Desktop/General/High School/computer science/Assignments/PASS1/PASS1/PASS1/obj/Debug/PASS1.csproj.CoreCompileInputs.cache
+/Users/anastasia/Desktop/General/High School/computer science/Assignments/PASS1/PASS1/PASS1/obj/Debug/PASS1.exe
+/Users/anastasia/Desktop/General/High School/computer science/Assignments/PASS1/PASS1/PASS1/obj/Debug/PASS1.pdb
